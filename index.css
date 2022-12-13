@@ -1,0 +1,27 @@
+button{
+    border:none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+    font-weight: bold;
+    width:200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+div{
+    background: aqua;
+    border: 3px green solid;
+    margin: 100px 250px;
+    box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.2);
+}
+
+#increment-button{
+    background: darkred;
+}
+#save-button{
+    background: greenyellow;
+}
+body{
+    text-align: center;
+    margin-top: 60px;
+}
